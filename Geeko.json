@@ -1,6 +1,15 @@
 [
   { 
     "author" : "Geeko", 
+    "name" : "Readme", 
+    "version" : "1.0.0", 
+    "dofusVersion" : "2.69", 
+    "url" : "https://github.com/evoGeeko/dofus_theme/blob/theme/README.md", 
+    "creationDate" : "22/11/2023", 
+    "modificationDate" : "22/11/2023"  
+  },
+  { 
+    "author" : "Geeko", 
     "name" : "Theme Geeko", 
     "keyWords" : "black,red", 
     "version" : "1.0.0", 
