@@ -4,7 +4,7 @@
     "name" : "Readme", 
     "version" : "1.0.0", 
     "dofusVersion" : "2.69", 
-    "url" : "https://github.com/evoGeeko/dofus_theme/blob/theme/README.md", 
+    "url" : "https://github.com/evoGeeko/dofus_theme/theme/README.md", 
     "creationDate" : "22/11/2023", 
     "modificationDate" : "22/11/2023"  
   },
@@ -15,8 +15,8 @@
     "version" : "1.0.0", 
     "dofusVersion" : "2.69", 
     "description" : "Le thème est personnalisé", 
-    "url" : "https://github.com/evoGeeko/dofus_theme/blob/theme/Geeko.zip", 
-    "previewUrl" : "https://github.com/evoGeeko/dofus_theme/blob/theme/Geeko.jpg", 
+    "url" : "https://github.com/evoGeeko/dofus_theme/theme/Geeko.zip", 
+    "previewUrl" : "https://github.com/evoGeeko/dofus_theme/theme/Geeko.jpg", 
     "creationDate" : "22/11/2023", 
     "modificationDate" : "22/11/2023"  
   }]
