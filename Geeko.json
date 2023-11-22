@@ -1,4 +1,13 @@
 [
+  {
+        "author": "Aspette",
+        "name": "!! README !!",
+        "keyWords": "README",
+        "version": "README",
+        "dofusVersion": "Install that does nothing",
+        "description": "Theme personnalise",
+        "url": "https://github.com/evoGeeko/dofus_theme/blob/theme/README.md",
+    },
   { 
     "author" : "Geeko", 
     "name" : "Theme Geeko", 
