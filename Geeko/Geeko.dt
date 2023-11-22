@@ -1,0 +1,11 @@
+<theme>
+    <name>Geeko</name>
+    <skinType>1</skinType>
+    <description>Theme Geeko</description>
+    <previewUri>Geeko.jpg</previewUri>
+	<author>Geeko</author>
+	<version>2.69.0</version>
+    <dofusVersion>2.70</dofusVersion>
+    <creationDate>01/08/2017</creationDate>
+    <modificationDate>17/09/2023</modificationDate>
+</theme>
